@@ -1,3 +1,5 @@
+#w+ for writing and reading. 
+
 file = open("sample.txt","w")
 
 l = ["Line 1", "Line 2", "Line 3"]

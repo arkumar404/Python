@@ -1,3 +1,4 @@
+# r+ for both reading and writing
 file = open("sample.txt",'r')
 
 
